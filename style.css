@@ -1,0 +1,23 @@
+#slider{
+    position: relative;
+    text-align: center;
+    top: 20px;
+}
+#slider{
+margin: 0 auto;
+}
+#slider article{
+width: 20%;
+float: left;
+}
+#image{
+width: 100%;
+line-height: 0;
+}
+#overflow{
+    width: 100%;
+    overflow: hidden;
+}
+#article img{
+width: 100%;
+}
